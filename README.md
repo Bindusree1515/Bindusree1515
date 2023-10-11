@@ -1,6 +1,4 @@
 ### Hello world! I'm Bindu Sree. 👋
-I 
-
 <!--
 **Bindusree1515/Bindusree1515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
