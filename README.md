@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### 📊GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindusree1515&show_icons=true&theme=radical)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=bindusree1515&theme=radical&hide_border=false)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-bindu-sree-reddy-182592275/)
