@@ -1,6 +1,7 @@
 ## Hello World! I am Bindu Sree.👋
 - A dedicated Computer Science Engineering student with a keen interest in leveraging technology to solve real-world problems.
 - undergrad at VNRVJIET.
+- GSSoC'24 Contributor.
   
 ### 💻Tech Stack
 
