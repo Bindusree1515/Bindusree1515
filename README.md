@@ -2,7 +2,7 @@
 - A dedicated Computer Science Engineering student with a keen interest in leveraging technology to solve real-world problems.
 - An aspirant of Full stack Web Developer.
 - GSSoC'24 Contributor.
-- undergrad at VNRVJIET
+- undergrad at VNRVJIET.
 
 ### 💻Tech Stack
 
